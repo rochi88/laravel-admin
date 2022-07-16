@@ -37,7 +37,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "php": "^8.0",
         "doctrine/dbal": "^3.3",
         "laravel/ui": "^3.4",
         "livewire/livewire": "^2.10",

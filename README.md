@@ -18,7 +18,7 @@ This A beutiful web admin develop for **Laravel** Framework. It's have so many s
     * then put the command
 
 ```php
-composer require rochi88/admin
+composer require rochi88/laravel-admin
 ```
 
 1. Setup the database connection in your new laravel project.
