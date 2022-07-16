@@ -3,7 +3,7 @@
 
 ## This Web Admin panel usable for the Enterprise application develop with Laravel 8
 
-[![Latest Stable Version](https://poser.pugx.org/Rochi88/admin/v)](//packagist.org/packages/Rochi88/admin) [![Total Downloads](https://poser.pugx.org/Rochi88/admin/downloads)](//packagist.org/packages/Rochi88/admin) [![Latest Unstable Version](https://poser.pugx.org/Rochi88/admin/v/unstable)](//packagist.org/packages/Rochi88/admin) [![License](https://poser.pugx.org/Rochi88/admin/license)](//packagist.org/packages/Rochi88/admin) [![Monthly Downloads](https://poser.pugx.org/Rochi88/admin/d/monthly)](//packagist.org/packages/Rochi88/admin) [![Daily Downloads](https://poser.pugx.org/Rochi88/admin/d/daily)](//packagist.org/packages/Rochi88/admin)
+[![Latest Stable Version](https://poser.pugx.org/Rochi88/admin/v)](//packagist.org/packages/Rochi88/admin) [![Total Downloads](https://poser.pugx.org/Rochi88/admin/downloads)](//packagist.org/packages/Rochi88/admin) [![Latest Unstable Version](https://poser.pugx.org/Rochi88/admin/v/unstable)](//packagist.org/packages/Rochi88/admin) [![License](https://poser.pugx.org/Rochi88/admin/license)](//packagist.org/packages/Rochi88/admin) [![Monthly Downloads](https://poser.pugx.org/Rochi88/admin/d/monthly)](//packagist.org/packages/Rochi88/admin) [![Daily Downloads](https://poser.pugx.org/Rochi88/admin/d/daily)](//packagist.org/packages/rochi88/admin)
 
 This A beutiful web admin develop for **Laravel** Framework. It's have so many screens. components, managable menus, and auto dark modes included.
 
@@ -18,7 +18,7 @@ This A beutiful web admin develop for **Laravel** Framework. It's have so many s
     * then put the command
 
 ```php
-composer require Rochi88/admin
+composer require rochi88/admin
 ```
 
 1. Setup the database connection in your new laravel project.
